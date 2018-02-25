@@ -1,0 +1,23 @@
+#BlueJ class context
+comment0.target=Almacen1
+comment0.text=\n\ Implementar\ un\ almac\u00E9n\ de\ enteros\ mediante\ una\ tabla\ de\ huecos\n\ se\ supone\ que\ no\ puede\ contener\ el\ valor\ 0\ ya\ que\ indica\ posiciones\ libre.\n
+comment1.params=
+comment1.target=Almacen1()
+comment2.params=tama\u00F1o
+comment2.target=Almacen1(int)
+comment3.params=
+comment3.target=void\ init()
+comment4.params=
+comment4.target=java.lang.String\ toString()
+comment5.params=
+comment5.target=int\ numPosicionesLibres()
+comment6.params=
+comment6.target=int\ numPosicionesOcupadas()
+comment7.params=num
+comment7.target=boolean\ ponValor(int)
+comment8.params=num
+comment8.target=boolean\ sacarValor(int)
+comment8.text=Elimina\ el\ elemento\ de\ la\ tabla,\ si\ no\ esta\ devuelve\ false
+comment9.params=
+comment9.target=boolean\ estaLleno()
+numComments=10
